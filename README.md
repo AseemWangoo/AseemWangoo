@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello hello <img src="https://github.com/AseemWangoo/AseemWangoo/blob/master/wave.gif" width="30px">
 
-<!--
-**AseemWangoo/AseemWangoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚒️ Founder of [FlatteredWithFlutter](https://flatteredwithflutter.com/)
+- 🕹 Experimenting [FlutterWeb](https://web.flatteredwithflutter.com/)
 
-Here are some ideas to get you started:
+### 📹 YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/user/aseemwangoo"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="60"></a>
+<a href="https://twitter.com/aseemwangoo"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="60"></a>
+
+### &#x270d; Writting Stuff
+
+<a href="https://medium.com/@aseemwangoo"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="60"></a>
+<a href="https://flatteredwithflutter.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" width="60"></a>
+<a href="https://dev.to/aseemwangoo"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="aseem wangoo's DEV Profile" height="60" width="60"></a>
+
+
+![](https://github-readme-stats.vercel.app/api?username=aseemwangoo&count_private=true&theme=default&show_icons=true)
