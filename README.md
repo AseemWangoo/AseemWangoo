@@ -1,18 +1,29 @@
 # Hello hello <img src="https://github.com/AseemWangoo/AseemWangoo/blob/master/wave.gif" width="30px">
 
-- ⚒️ Founder of [FlatteredWithFlutter](https://flatteredwithflutter.com/)
+- ⚒️ Creator of [FlatteredWithFlutter](https://flatteredwithflutter.com/)
+- 🕹 Trying [FlutterDesktop](https://web.flatteredwithflutter.com/#/)
 - 🕹 Experimenting [FlutterWeb](https://web.flatteredwithflutter.com/)
+- 🔈 Event Speaker
 
-### 📹 YouTube
+**Watch, Like, Share, Enjoy**
 
-<a href="https://www.youtube.com/user/aseemwangoo"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="60"></a>
-<a href="https://twitter.com/aseemwangoo"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="60"></a>
+[<img align="left" alt="Aseem Wangoo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aseem Wangoo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aseem Wangoo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
+[<img align="left" alt="Aseem Wangoo | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Aseem Wangoo | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][devto]
+[<img align="left" alt="Aseem Wangoo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aseem Wangoo | BMC" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />][bmc]
+<br>
 
-### &#x270d; Writting Stuff
-
-<a href="https://medium.com/@aseemwangoo"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="60"></a>
-<a href="https://flatteredwithflutter.com/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" width="60"></a>
-<a href="https://dev.to/aseemwangoo"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="aseem wangoo's DEV Profile" height="60" width="60"></a>
-
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=aseemwangoo&count_private=true&theme=default&show_icons=true)
+
+[youtube]: https://youtube.com/aseemwangoo
+[twitter]: https://twitter.com/aseemwangoo
+[blog]: https://medium.com/@aseemwangoo
+[website]: https://flatteredwithflutter.com/
+[devto]: https://dev.to/aseemwangoo
+[bmc]: https://www.buymeacoffee.com/aseemwangoo/posts
+[linkedin]: https://www.linkedin.com/in/aseemwangoo/
