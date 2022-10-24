@@ -9,13 +9,13 @@
 
 **Watch, Like, Share, Enjoy**
 
-[<img align="left" alt="Aseem Wangoo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aseem Wangoo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aseem Wangoo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
-[<img align="left" alt="Aseem Wangoo | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aseem Wangoo | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][devto]
-[<img align="left" alt="Aseem Wangoo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aseem Wangoo | BMC" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />][bmc]
+[<img align="left" alt="Aseem Wangoo | YouTube" width="22px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
+[<img align="left" alt="Aseem Wangoo | Twitter" width="22px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />][twitter]
+[<img align="left" alt="Aseem Wangoo | Blog" width="22px" src="https://www.svgrepo.com/show/122889/medium.svg" />][blog]
+[<img align="left" alt="Aseem Wangoo | Website" width="22px" src="https://www.svgrepo.com/show/331785/website-generic.svg" />][website]
+[<img align="left" alt="Aseem Wangoo | DevTo" width="22px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />][devto]
+[<img align="left" alt="Aseem Wangoo | LinkedIn" width="22px" src="https://www.svgrepo.com/show/134579/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aseem Wangoo | BMC" width="22px" src="https://www.svgrepo.com/show/56789/buy.svg" />][bmc]
 <br>
 
 ---
