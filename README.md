@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Socials
+# 🌐 Connect with Me!!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][blog] [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube] [![Twitter](https://img.shields.io/twitter/follow/aseemwangoo?logo=Twitter&style=for-the-badge)][twitter]
 
 # 💻 Tech Stack:
