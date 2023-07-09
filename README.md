@@ -5,9 +5,8 @@
 
 - 😄 Pronouns: He/Him
 - ⚒️ Creator of [FlatteredWithFlutter](https://flatteredwithflutter.com/)
-- 🕹 Worked on [FlutterDesktop](https://web.flatteredwithflutter.com/#/)
-- 🕹 Experimenting [FlutterWeb](https://web.flatteredwithflutter.com/)
 - 🔈 Event Speaker
+- ✍️ Google Dev Library Contributor [DevLibrary](https://devlibrary.withgoogle.com/authors/aseemwangoo)
 - 📫 How to reach me: Check social links below.
 
 ---
