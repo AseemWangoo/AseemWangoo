@@ -4,7 +4,7 @@
          width="30" /> I'm Aseem Wangoo</h1>
 
 - 😄 Pronouns: He/Him
-- ⚒️ Creator of [FlatteredWithFlutter](https://flatteredwithflutter.com/)
+- ⚒️ Creator of [FlatteredWithFlutter](https://flatteredwithflutter.com/), [FyndMyAI](https://fyndmyai.com/)
 - 🔈 Event Speaker
 - ✍️ Google Dev Library Contributor [DevLibrary](https://devlibrary.withgoogle.com/authors/aseemwangoo)
 - 📫 How to reach me: Check social links below.
