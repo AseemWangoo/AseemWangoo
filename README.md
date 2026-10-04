@@ -1,21 +1,19 @@
 # Aseem Wangoo
 
-He/him · Noida
+**Applied AI Engineer**
 
-Lead Software Engineer at [ELGO AI](https://www.linkedin.com/company/elgo-ai). I build Flutter apps and applied AI, speak at events, and write about the work. Google Dev Library contributor.
+He/him
+
+Senior AI Platform Engineer at [Elgo AI](https://www.linkedin.com/company/elgo-ai), Noida. Cursor Ambassador, India.
+
+I apply AI across the software development lifecycle: building, reviewing, and shipping software. I write and speak about Flutter and applied AI. Google Dev Library contributor.
 
 ## Projects
 
-**[Flattered With Flutter](https://flatteredwithflutter.com/)**
-Where I write about Flutter and AI.
-
-**[FyndMyAI](https://fyndmyai.com)**
-Co-founder. An AI marketplace for events, agents, and tools.
-
-**[HisabKarle](https://hisabkarle.com/)**
-A spending log that reads PhonePe, Google Pay, Paytm, and bank debit screenshots.
-
-Open Flutter experiments: [flutter_programs](https://github.com/AseemWangoo/flutter_programs).
+- **[Flattered With Flutter](https://flatteredwithflutter.com/)** — where I write about Flutter and AI.
+- **[FyndMyAI](https://fyndmyai.com)** — co-founder. An AI marketplace for events, agents, and tools.
+- **[HisabKarle](https://hisabkarle.com/)** — a spending log that reads PhonePe, Google Pay, Paytm, and bank debit screenshots.
+- **[flutter_programs](https://github.com/AseemWangoo/flutter_programs)** — open Flutter experiments.
 
 ## Links
 
