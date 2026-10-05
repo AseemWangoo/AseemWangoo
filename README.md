@@ -4,7 +4,7 @@
 
 He/him
 
-Senior AI Platform Engineer at [Elgo AI](https://www.linkedin.com/company/elgo-ai), Noida. Cursor Ambassador, India.
+Senior AI Platform Engineer at [Elgo AI](https://www.linkedin.com/company/elgo-ai), Noida. SpaceX AI Ambassador, India.
 
 I apply AI across the software development lifecycle: building, reviewing, and shipping software.
 
@@ -26,10 +26,13 @@ Open-source integrations for Zomato and Swiggy, and servers that connect AI agen
 
 ## Speaking
 
-- **2026** — Cursor Event Host, Delhi and Bangalore
 - **2025** — Cursor Delhi
 - **2024** — GDG Dubai, AWS Summit, API Days Global, Flutter Global Summit, GDG Zagreb, GITEX Global, Exito Singapore, Flutter Singapore Q1
 - **2023** — DevFest Singapore, Flutter Fiesta at Google Singapore, FlutterCon Berlin, Cloud Expo Asia
+
+## Community events hosted
+
+Cursor Event Host, Delhi and Bangalore, 2026.
 
 ## Achievements
 
