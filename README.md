@@ -49,6 +49,7 @@ Hackathons: Flutter PuzzleHack (Feb 2022), Flutter Hack20 (June 2020), Flutter C
 - **[Flattered With Flutter](https://flatteredwithflutter.com/)** — where I write about Flutter and AI.
 - **[FyndMyAI](https://fyndmyai.com)** — co-founder. An AI marketplace for events, agents, and tools.
 - **[HisabKarle](https://hisabkarle.com/)** — a spending log that reads PhonePe, Google Pay, Paytm, and bank debit screenshots.
+- **[MentionWall](https://mentionwall.top/)** — a live social wall and scoreboard. Track hashtags, keywords, and @handles on X, or start from a Luma event.
 - **[flutter_programs](https://github.com/AseemWangoo/flutter_programs)** — open Flutter experiments.
 
 ## Links
