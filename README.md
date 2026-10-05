@@ -32,7 +32,9 @@ Open-source integrations for Zomato and Swiggy, and servers that connect AI agen
 
 ## Community events hosted
 
-Cursor Event Host, Delhi and Bangalore, 2026.
+- [Cafe Cursor Delhi](https://luma.com/cafe-cursor-delhi) — Aug 2026
+- [Cursor India Roadshow: Bangalore](https://luma.com/cursor-india-roadshow-bangalore) — Aug 2026
+- [Cursor India Roadshow: Delhi Buildathon](https://luma.com/cursor-india-roadshow-delhi) — July 2026, STAGE, Noida
 
 ## Achievements
 
