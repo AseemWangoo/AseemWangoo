@@ -1,59 +1,66 @@
-<h1 align="center"> Hello<img src="https://github.com/AseemWangoo/AseemWangoo/blob/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="30" /> I'm Aseem Wangoo</h1>
+# Aseem Wangoo
 
-- 😄 Pronouns: He/Him
-- ⚒️ Creator of [HisabKarle](https://hisabkarle.com/), [FyndMyAI](https://fyndmyai.com/)
-- 🔈 Event Speaker
-- ✍️ Google Dev Library Contributor [DevLibrary](https://devlibrary.withgoogle.com/authors/aseemwangoo)
-- 📫 How to reach me: Check social links below.
+**Applied AI Engineer**
 
----
+He/him
 
-**Watch, Like, Share, Enjoy**
+Senior AI Platform Engineer at [Elgo AI](https://www.linkedin.com/company/elgo-ai), Noida. SpaceX AI Ambassador, India.
 
-[<img align="left" alt="Aseem Wangoo | YouTube" width="22px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
-[<img align="left" alt="Aseem Wangoo | Twitter" width="22px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />][twitter]
-[<img align="left" alt="Aseem Wangoo | Blog" width="22px" src="https://www.svgrepo.com/show/122889/medium.svg" />][blog]
-[<img align="left" alt="Aseem Wangoo | Website" width="22px" src="https://www.svgrepo.com/show/331785/website-generic.svg" />][website]
-[<img align="left" alt="Aseem Wangoo | DevTo" width="22px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />][devto]
-[<img align="left" alt="Aseem Wangoo | LinkedIn" width="22px" src="https://www.svgrepo.com/show/134579/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aseem Wangoo | BMC" width="22px" src="https://www.svgrepo.com/show/56789/buy.svg" />][bmc]
-<br>
+I apply AI across the software development lifecycle: building, reviewing, and shipping software.
 
----
+## What I work on
 
-# 🌐 Connect with Me!!!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][blog] [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube] [![Twitter](https://img.shields.io/twitter/follow/aseemwangoo?logo=Twitter&style=for-the-badge)][twitter]
+12+ years building AI-driven mobile, web, and backend platforms across fintech, safety-tech, SaaS, and e-commerce. 650+ GitHub stars. I work with RAG, LangChain, LangGraph, and agentic AI.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Elgo AI**
 
+- Safety Mojo (Flutter): AI document scanning, safety-form auto-parsing, and intelligent incident reporting
+- Qdrant retrieval and document chunking, improving AI response accuracy and scalability by 15%
+- OCR + LLM document parsing pipeline
+- AI Workflow Node Assistant for non-technical users
+- Smart Space AI: computer vision for real-time space utilisation
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aseemwangoo&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aseemwangoo&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**MCP servers**
 
----
-[![](https://visitcount.itsvg.in/api?id=aseemwangoo&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+Open-source integrations for Zomato and Swiggy, and servers that connect AI agents to platforms including Disney+ Hotstar.
 
-[youtube]: https://youtube.com/aseemwangoo
-[twitter]: https://twitter.com/aseemwangoo
-[blog]: https://medium.com/@aseemwangoo
-[website]: https://hisabkarle.com/
-[devto]: https://dev.to/aseemwangoo
-[bmc]: https://www.buymeacoffee.com/aseemwangoo/posts
-[linkedin]: https://www.linkedin.com/in/aseemwangoo/
+## Speaking
 
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+- **2025** — Cursor Delhi
+- **2024** — GDG Dubai, AWS Summit, API Days Global, Flutter Global Summit, GDG Zagreb, GITEX Global, Exito Singapore, Flutter Singapore Q1
+- **2023** — DevFest Singapore, Flutter Fiesta at Google Singapore, FlutterCon Berlin, Cloud Expo Asia
 
+## Community events hosted
 
-<div align="center">
+- [Cafe Cursor Delhi](https://luma.com/cafe-cursor-delhi) — Aug 2026
+- [Cursor India Roadshow: Bangalore](https://luma.com/cursor-india-roadshow-bangalore) — Aug 2026
+- [Cursor India Roadshow: Delhi Buildathon](https://luma.com/cursor-india-roadshow-delhi) — July 2026, STAGE, Noida
 
-### Show ❤️ by starring repositories!
+## Achievements
 
-</div>
+- Top 3% Speakers in 2023 by Sessionize
+- Google Dev Library contributor
+- Ranked in the Top 30 best Flutter blogs, for Flattered With Flutter
+- Accepted into the YouTube Partner Program
+- Invertase Content Creation Contest 2023, runner-up
 
+Hackathons: Flutter PuzzleHack (Feb 2022), Flutter Hack20 (June 2020), Flutter Clock Challenge (Jan 2020), First International Flutter Hackathon (June 2019).
 
+## Projects
+
+- **[Flattered With Flutter](https://flatteredwithflutter.com/)** — where I write about Flutter and AI.
+- **[FyndMyAI](https://fyndmyai.com)** — co-founder. An AI marketplace for events, agents, and tools.
+- **[HisabKarle](https://hisabkarle.com/)** — a spending log that reads PhonePe, Google Pay, Paytm, and bank debit screenshots.
+- **[MentionWall](https://mentionwall.top/)** — a live social wall and scoreboard. Track hashtags, keywords, and @handles on X, or start from a Luma event.
+- **[flutter_programs](https://github.com/AseemWangoo/flutter_programs)** — open Flutter experiments.
+
+## Links
+
+- [GitHub](https://github.com/AseemWangoo)
+- [LinkedIn](https://www.linkedin.com/in/aseemwangoo/)
+- [Portfolio](https://aseemwangoo.github.io/)
+- [X](https://twitter.com/aseemwangoo)
+- [Medium](https://medium.com/@aseemwangoo)
+- [YouTube](https://youtube.com/aseemwangoo)
+- [DEV](https://dev.to/aseemwangoo)
+- [Google Dev Library](https://devlibrary.withgoogle.com/authors/aseemwangoo)
